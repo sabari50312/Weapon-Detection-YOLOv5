@@ -21,7 +21,6 @@ Trained for 100 epochs with batch size 32
 ## Training stats
 |Class|Images|Labels|P|R|mAP@.5|mAP@.5:.95: 100%|
 | --- | --- | --- | --- | --- | --- | --- |           
-
 |all|697|799|0.92|0.839|0.91|0.618|
 |knife|697|320|0.917|0.884|0.936|0.589|
 |pistol|697|479|0.922|0.793|0.884|0.647|
